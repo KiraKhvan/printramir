@@ -1,0 +1,1 @@
+ALTER TABLE contact ADD phone VARCHAR(255) NULL;

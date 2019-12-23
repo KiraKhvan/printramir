@@ -1,0 +1,13 @@
+User-agent: Googlebot
+Disallow: /login
+Disallow: /accountparametercontrol
+Disallow: /contactscontrol
+Disallow: /productscontrol
+Disallow: /servicecontrol
+Disallow: /static
+Allow: /
+Allow: /services
+Allow: /main
+Allow: /contacts
+Allow: /products
+Host: http://printaktobe.com/

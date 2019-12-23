@@ -1,0 +1,1 @@
+ALTER TABLE sectionn ADD sectionntype VARCHAR(255) NULL;

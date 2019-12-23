@@ -1,0 +1,1 @@
+ALTER TABLE service ADD servicetype VARCHAR(255) NULL;
